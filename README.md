@@ -3,7 +3,13 @@
 Dataset Link: 'https://raw.githubusercontent.com/campusx-official/100-days-of-machine-learning/main/day28-column-transformer/covid_toy.csv'
 
 # feature engineering:
-  **feature Transform**
+
+
+
+
+
+
+  => feature Transform
           |--Feature Scaling
           |--Encoding
 
